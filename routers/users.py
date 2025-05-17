@@ -1,7 +1,7 @@
 from fastapi import APIRouter, HTTPException
-from data.users import users_list
-from models.user import User
-from utils.user_search import search_user
+from data.db import users_list
+from models.models import User
+from utils.utils import search_user
 
 #3:33:13 min of the video
 
