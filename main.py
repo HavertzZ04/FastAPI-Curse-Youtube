@@ -3,6 +3,7 @@ from routers import users, basic_auth_users
 from fastapi.staticfiles import StaticFiles
 
 #4:40:35 IMPORTANT, he explained all the code made with OAuth2
+#4:54:24 min video
 
 app = FastAPI()
 

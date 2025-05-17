@@ -13,7 +13,7 @@ users_db = {
     "havertzz04": {
         "username": "havertzz04",
         "full_name": "Johan Carvajal",
-        "email": "havertzz04@gmail.com",
+        "email": "havertz2005@gmail.com",
         "disabled": False,
         "password": "123456"
     },
