@@ -15,13 +15,13 @@ users_db = {
         "full_name": "Johan Carvajal",
         "email": "havertz2005@gmail.com",
         "disabled": False,
-        "password": "123456"
+        "password": "$2y$10$XM3MyMwPH9M/V7r5UeDpguW5XKHPJR2S4/Z6eGXLrj8bN7hchQSfK"
     },
     "alexdev10": {
         "username": "alexdev10",
         "full_name": "Alejandro Pérez",
         "email": "alexdev10@gmail.com",
         "disabled": False,
-        "password": "654321"
+        "password": "$2y$10$P5hCQUYqfjkCQ9YQJz0oX.sUPPyCurVuM89Zop.sdiJKY.CTzDaXW"
     },
 }
