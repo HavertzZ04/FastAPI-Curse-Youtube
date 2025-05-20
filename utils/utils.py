@@ -1,4 +1,4 @@
-from data.db import users_list, users_db
+from db.client import users_list, users_db
 from models.models import RegisterDB, Register
 
 

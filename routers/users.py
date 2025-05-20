@@ -1,5 +1,5 @@
 from fastapi import APIRouter, HTTPException
-from data.db import users_list
+from db.client import users_list
 from models.models import User
 from utils.utils import search_user
 

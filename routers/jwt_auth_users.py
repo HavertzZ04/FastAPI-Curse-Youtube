@@ -1,6 +1,6 @@
 from fastapi import APIRouter, HTTPException, Depends, status
 from models.models import Register
-from data.db import users_db
+from db.client import users_db
 from utils.utils import search_register_user, search_register_user_db
 from fastapi.security import OAuth2PasswordBearer, OAuth2PasswordRequestForm
 import jwt
